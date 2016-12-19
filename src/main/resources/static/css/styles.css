@@ -1,0 +1,8 @@
+.no-script{
+    color: #ff0000
+}
+
+#message,
+#target{
+    width: 350px
+}
