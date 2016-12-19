@@ -13,6 +13,18 @@ Minimum Required JDK
 
 Other JRE implementations may work as well, but haven't been tested.
 
+#Road Map
+### 0.3 SNAPSHOT
+* Base function reference spring boot websocket sample. 
+
+### 1.0 release(Q2 2017)
+* Add bootstrap styles to rich client side.
+* Add Pub/sub pattern to support chat room.
+
+### 1.1 relase(Q4 2017)
+* Migrate client to Angular 2 and Typescript to enhance browser side functions.
+* Using PrimeTek's PrimeNG replacing Twitter&copy; Bootstrap.
+
 Getting Support
 ---------------
 
