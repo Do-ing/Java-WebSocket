@@ -1,4 +1,4 @@
-[Java WebSockets Demo](https://github.com/YingDu/JavaWebSocketDemo)
+[Java WebSockets Demo](https://yingdu.github.io/JavaWebSocketDemo/)
 ===============
 
 This repository contains a barebones WebSocket server and client implementation
