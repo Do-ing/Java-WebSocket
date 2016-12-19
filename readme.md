@@ -1,19 +1,20 @@
-Java WebSockets Demo
+[Java WebSockets Demo](https://github.com/YingDu/JavaWebSocketDemo)
 ===============
 
 This repository contains a barebones WebSocket server and client implementation
-written in 100% Java.
+written in Java and HTML5.
 
 Minimum Required JDK
 --------------------
 
-`Java WebSockets Demo` is known to work with:
+[`Java WebSockets Demo`](https://github.com/YingDu/JavaWebSocketDemo) is known to work with:
 
  * Java 1.7
 
 Other JRE implementations may work as well, but haven't been tested.
 
 #Road Map
+
 ### 0.3 SNAPSHOT
 * Base function reference spring boot websocket sample. 
 
