@@ -1,7 +1,6 @@
 *.class
 .git
 .vscode
-*~
 target
 *.ipr
 *.iml
