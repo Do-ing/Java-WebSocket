@@ -29,7 +29,7 @@ Getting Support
 ---------------
 
 If you are looking for help using `Java WebSockets Demo` or get any trouble.
-leave [issues](https://github.com/YingDu/JavaWebSocketDemo/issues) here.
+leave [`issues here`](https://github.com/YingDu/JavaWebSocketDemo/issues).
 
 License
 -------
